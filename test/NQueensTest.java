@@ -19,6 +19,6 @@ class NQueensTest
     @org.junit.jupiter.api.Test
     void solve()
     {
-        System.out.println(NQueens.solve(8));
+        System.out.println(NQueens.solve(4));
     }
 }
